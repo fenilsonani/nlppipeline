@@ -1,0 +1,14 @@
+# NLP Models Dependencies
+
+# Core ML libraries
+torch>=2.0.0
+transformers>=4.30.0
+spacy>=3.5.0
+
+# Additional dependencies
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Optional but recommended
+accelerate>=0.20.0  # For faster model loading
+sentencepiece>=0.1.99  # For some tokenizers
