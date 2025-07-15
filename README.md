@@ -107,8 +107,8 @@ This NLP pipeline is designed to handle enterprise-scale text processing with a 
 
 ```bash
 # Clone the repository
-git clone https://github.com/fenilsonani/nlp-pipeline.git
-cd nlp-pipeline
+git clone https://github.com/fenilsonani/nlppipeline.git
+cd nlppipeline
 
 # Create virtual environment
 python -m venv venv
@@ -433,9 +433,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions and support:
 
-- 📧 Email: fenil@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/fenilsonani/nlp-pipeline/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/fenilsonani/nlp-pipeline/discussions)
+- 📧 Email: fenil@fenilsonani.com
+- 🐛 Issues: [GitHub Issues](https://github.com/fenilsonani/nlppipeline/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/fenilsonani/nlppipeline/discussions)
 
 ---
 
